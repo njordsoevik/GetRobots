@@ -13,10 +13,13 @@ Executing From Command Line
   Example:
   > python getRobots.py facebook Applebot
 
-## Background
+## Further Reading
 To read a websites robots.txt file, try reaching the endpoint:
+
   https://wwww.<host>.<domain>/robots.txt
+  
 Example:
+  
   https://wwww.facebook.com/robots.txt
   
 To learn more about robots.txt:
