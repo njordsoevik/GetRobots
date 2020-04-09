@@ -16,7 +16,7 @@ Executing From Command Line
 ## Further Reading
 To read a websites robots.txt file, try reaching the endpoint:
 
-  https://www.<host>.<domain>/robots.txt
+  https://www.\<host>.\<domain>/robots.txt
   
 Example:
   
